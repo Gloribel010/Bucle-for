@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Semana5.exe
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Semana5.deps.json
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Semana5.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Semana5.dll
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Semana5.pdb
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.dll
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Semana5.dll
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.pdb
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Semana5.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Semana5.dll
